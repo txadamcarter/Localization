@@ -1,0 +1,2 @@
+adam_bot:turtlebot/turtlebot:turtlebot/turtlebot_bringup:turtlebot/turtlebot_capabilities:turtlebot/turtlebot_description:turtlebot/turtlebot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/adam/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adam/catkin_ws/install -G Unix Makefiles

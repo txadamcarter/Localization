@@ -1,0 +1,8 @@
+prefix=/home/adam/catkin_ws/install
+
+Name: adam_bot
+Description: Description of adam_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/adam/catkin_ws/install/lib 
+Requires: 
